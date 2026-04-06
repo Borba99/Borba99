@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="www.linkedin.com/in/vittorborba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu@email.com">
+  <a href="vittorborbadavi.vb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://borba99.github.io" target="_blank">
@@ -18,15 +18,17 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Sou desenvolvedor backend com foco em construção de **APIs REST**, **autenticação JWT** e arquiteturas escaláveis. Atualmente cursando **Engenharia de Software na Universidade Católica de Brasília (UCB)**.
+Sou desenvolvedor com experiência em Python, Java e Node.js, atuando na criação de soluções eficientes, automatizadas e voltadas para resultados reais. Tenho facilidade em desenvolver sistemas, APIs, automações e aplicações web, sempre buscando código limpo, performance e escalabilidade.
 
-Apaixonado por transformar lógica em soluções reais — escrevo código limpo, penso em performance e nunca paro de aprender.
+Atualmente, também aplico tecnologia para otimizar processos no ambiente empresarial, com foco em automação de tarefas e ganho de produtividade. Tenho perfil proativo, comunicação clara e compromisso com prazos, garantindo entregas de qualidade e alinhadas com as necessidades do cliente.
+
+Estou sempre em evolução, buscando novas tecnologias e desafios para entregar soluções cada vez melhores.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,7 +41,7 @@ Apaixonado por transformar lógica em soluções reais — escrevo código limpo
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
@@ -49,7 +51,7 @@ Apaixonado por transformar lógica em soluções reais — escrevo código limpo
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Borba99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -58,11 +60,11 @@ Apaixonado por transformar lógica em soluções reais — escrevo código limpo
 
 ---
 
-## 🎯 Atualmente
+## Atualmente
 
-- 📚 Aprofundando em arquitetura de microsserviços e boas práticas de API
-- 🔧 Construindo projetos pessoais para solidificar habilidades em backend
-- 🎓 Cursando Engenharia de Software na UCB
+- Aprofundando em arquitetura de microsserviços e boas práticas de API
+- Construindo projetos pessoais para solidificar habilidades em backend
+- Cursando Engenharia de Software na UCB
 
 ---
 
